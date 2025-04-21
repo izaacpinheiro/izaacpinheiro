@@ -1,17 +1,14 @@
-## Oi, sou Izaac Pinheiro
+## Opa, tudo bem?
 - 🌱 Estudando Java
 ##
-<div>
-  <a href="https://github.com/izaacpinheiro">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=izaacpinheiro&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaacpinheiro&layout=compact&langs_count=7&theme=merko&"/>
-  </a>
-</div>
 
-##
+## Social
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izaac-pinheiro-araújo-5377a52b3/)
 
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="izaacpinheiro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="izaacpinheiro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div><br/>
+## Skills
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<br/>
+
+## Github Stats
+![](https://github-readme-stats.vercel.app/api?username=izaacpinheiro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=izaacpinheiro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
