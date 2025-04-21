@@ -1,6 +1,5 @@
 ## Opa, tudo bem?
 - 🌱 Estudando Java
-##
 
 ## Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izaac-pinheiro-araújo-5377a52b3/)
