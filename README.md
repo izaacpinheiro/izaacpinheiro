@@ -1,6 +1,6 @@
-## Izaac Pinheiro 👨‍💻
-- Fascinado por tecnologia, jogos, desenhos e filmes
-- Estudando `Java` ☕
+# Izaac Pinheiro 👨‍💻
+- Fascinado por tecnologia, jogos, desenhos e filmes!
+- Estudando `Java` ☕, `Spring Boot` 🍃 e `PostgreSQL`
 
 ## Social 💼
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izaacpinheiro/)
